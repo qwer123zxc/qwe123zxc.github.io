@@ -16,7 +16,14 @@ layout: compress
 <html lang="{{ page.lang | default: site.alt_lang | default: site.lang }}" {{ prefer_mode }}>
   {% include head.html %}
 
-  <body>
+  <body>        
+    <!-- set redirect to my domain-->
+    <script>
+      if (location.hostname === "qwer123zxc.github.io") {
+        window.location.href = "https://blog.example.com" + location.pathname + location.search + location.hash;
+      }
+    </script>
+    
     {% include sidebar.html lang=lang %}
 
     <div id="main-wrapper" class="d-flex justify-content-center">
