@@ -56,7 +56,7 @@ categories: jekyll update
 - 泛解析域名证书申请
     - 需要新增域名商DNS账户, 下边以Cloudflare列举
     - 登录cloudflare,生成密钥API
-    <img src="https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211811497.png" width="200px"/>
+    <img src="https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211811497.png" alt="create API" width="200px"/>
     ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211819003.png)
     - 注意API密钥权限设置，否则可能导致申请失败
     ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211825494.png)
