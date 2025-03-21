@@ -10,14 +10,14 @@ categories: jekyll update
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503191745343.png)
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503191748484.png)
 - 数据概览、财务运营
----
+
 
 
 ### 新增账户
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211552858.png)
 
 > 邮箱手机号不做真实验证, 账号使用邮箱和密码登录
----
+
 
 ### 分配订单套餐
 - 分配套餐
@@ -25,7 +25,7 @@ categories: jekyll update
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211532609.png)
 
 > 也可以在客户管理中订单详情中新增套餐
----
+
 
 
 ### 设置套餐流量和带宽限制
@@ -34,7 +34,7 @@ categories: jekyll update
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211926317.png)
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211927531.png)
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211928438.png)
----
+
 
 
 ### 添加站点
@@ -44,7 +44,6 @@ categories: jekyll update
 - 选择套餐, 添加域名信息和源站
     - 源站ip是http或者https, 需要设置正确,否则会导致回源失败
     - 选择跟随需要和实际回源和访问端口情况确认
----
 
 
 ### 站点域名申请证书
@@ -70,7 +69,6 @@ categories: jekyll update
     ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211832981.png)
     - 最后在申请证书页面, 选择DNS账户申请
     ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211837033.png)
----
 
 
 ### 安装新节点
@@ -88,7 +86,6 @@ categories: jekyll update
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211904190.png)
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211904335.png)
 > 状态没有变化时, 可能是显示状态为更新, 点击刷新
----
 
 
 ### 设置域名跳转
@@ -97,7 +94,6 @@ categories: jekyll update
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211911377.png)
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211913639.png)
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211918599.png)
----
 
 ### 设置站点防火墙
 
@@ -116,7 +112,6 @@ categories: jekyll update
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211054909.png)
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211102353.png)
 ![](https://picstorehouse.oss-cn-chengdu.aliyuncs.com/img/202503211111382.png)
----
 
 
 ### 查看CC攻击
